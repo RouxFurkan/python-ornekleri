@@ -12,4 +12,4 @@ Amacım, hem kendimi geliştirirken hem de diğer GitHub kullanıcılarına ilha
 Eğer projeler üzerinde önerileriniz veya geliştirme fikirleriniz varsa, lütfen bir **issue** oluşturun ya da bir **pull request** gönderin.
 
 ## İletişim
-Bana GitHub üzerinden mesaj atabilir ya da projelerimle ilgili yorum yapabilirsiniz. 😊
+Bana GitHub üzerinden mesaj atabilir ya da projelerimle ilgili yorum yapabilirsiniz.
