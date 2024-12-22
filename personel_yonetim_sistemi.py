@@ -57,6 +57,8 @@ while True:
         yeni_sifre_giris = input("Yeni bir şifre oluşturun: ")
         print(f"Hesabınız başarıyla oluşturuldu\n Kullanıcı adınız: {yeni_kullanici_adi_giris}\n Şifreniz: {yeni_sifre_giris}")
         break
+    else:
+        break
 
 
 
